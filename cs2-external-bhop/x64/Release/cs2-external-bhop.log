@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\someshit\cs2-external-bhop\cs2-external-bhop\memory.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\someshit\cs2-external-bhop\cs2-external-bhop\memory.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 55 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cs2-external-bhop.vcxproj -> D:\someshit\cs2-external-bhop\x64\Release\cs2-external-bhop.exe
